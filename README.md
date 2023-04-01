@@ -1,5 +1,5 @@
 # Themes for the Rofi Launcher
-Thank you to the awesome @newmanls for providing the initial repo.
+Thank you to the awesome [@newmanls](https://github.com/newmanls/rofi-themes-collection) for providing the initial repo.
 
 ## What is Rofi?
 
