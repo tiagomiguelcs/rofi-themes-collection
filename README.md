@@ -1,5 +1,5 @@
 # Themes for the Rofi Launcher
-Thank you to the awesome [@newmanls](https://github.com/newmanls/rofi-themes-collection) for providing the initial repo.
+Thanks to the awesome [@newmanls](https://github.com/newmanls/rofi-themes-collection) for providing the initial repo.
 
 ## What is Rofi?
 
@@ -38,9 +38,7 @@ $ cp themes/<your-selected-theme> ~/.local/share/rofi/themes/
 ## Screenshots
 
 ### Rounded
-![rounded-gray-dark](screenshots/IMG_rounded-gray-dark.png)
-![rounded-orange-dark](screenshots/IMG_rounded-orange-dark.png)
-
-
+![rounded-gray-dark](screenshots/rounded-gray-dark.png)
+![rounded-orange-dark](screenshots/rounded-gray-orange.png)
 
 
