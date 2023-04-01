@@ -1,8 +1,9 @@
 # Themes for the Rofi Launcher
+Thank you to the awesome @newmanls for providing the initial repo.
 
 ## What is Rofi?
 
-Rofi is a window switcher, Application launcher and dmenu replacement. Rofi started as a clone of simpleswitcher and It has been extended with extra features,like an application launcher and ssh-launcher, and can act as a drop-in dmenu replacement, making it a very versatile tool. Rofi, like dmenu, will provide the user with a textual list of options where one or more can be selected. This can either be running an application, selecting a window, or options provided by an external script. You can learn more about Rofi [here](https://github.com/davatorium/rofi).
+Rofi is a window switcher, application launcher, and command executor for Linux systems. It provides a fast and convenient way to switch between open windows, launch applications, and run commands without using the mouse. Rofi is highly customizable and can be configured to match the user's preferences in terms of appearance, behavior, and functionality. It supports various modes of operation, such as the window switcher mode, the application launcher mode, the SSH mode, and the script executor mode. Rofi is widely used in Linux desktop environments and window managers as a replacement for other tools like dmenu or Alt+Tab. It is open source and actively developed by a community of contributors, making it a reliable and flexible tool for Linux users. You can learn more about Rofi [here](https://github.com/davatorium/rofi)
 
 ## How to Install Rofi
 
@@ -39,8 +40,6 @@ $ cp themes/<your-selected-theme> ~/.local/share/rofi/themes/
 ### Rounded
 ![rounded-gray-dark](screenshots/IMG_rounded-gray-dark.png)
 ![rounded-orange-dark](screenshots/IMG_rounded-orange-dark.png)
-
-
 
 
 
