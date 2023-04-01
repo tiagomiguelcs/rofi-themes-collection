@@ -38,9 +38,7 @@ $ cp themes/<your-selected-theme> ~/.local/share/rofi/themes/
 ## Screenshots
 
 ### Rounded
-- rounded-gray-dark
 ![rounded-gray-dark](screenshots/rounded-gray-dark.png)
-- rounded-gray-orange
 ![rounded-gray-orange](screenshots/rounded-gray-orange.png)
 
 
