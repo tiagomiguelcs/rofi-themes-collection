@@ -26,6 +26,7 @@ $ mkdir -p ~/.local/share/rofi/themes/
 
 3. Copy your desired theme to `~/.local/share/rofi/themes` folder:
 ```
+$ cp themes/rounded-common.rasi ~/.local/share/rofi/themes/
 $ cp themes/<your-selected-theme> ~/.local/share/rofi/themes/
 ```
 
